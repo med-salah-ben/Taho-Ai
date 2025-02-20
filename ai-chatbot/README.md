@@ -36,7 +36,7 @@ ai-chatbot-frontend/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/med-salah-ben/Taho/ai-chatbot-frontend.git
+git clone https://github.com/med-salah-ben/Taho-Ai/tree/master/ai-chatbot
 cd ai-chatbot-frontend
 
 2️⃣ Install Dependencies

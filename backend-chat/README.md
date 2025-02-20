@@ -27,7 +27,7 @@ backend-chat/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-repo/ai-chatbot-backend.git
+git clone https://github.com/med-salah-ben/Taho-Ai/blob/master/backend-chat
 cd ai-chatbot-backend
 
 2️⃣ Create a Virtual Environment
